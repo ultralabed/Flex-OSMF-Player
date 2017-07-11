@@ -1,3 +1,9 @@
-This is an example of mobile video player.
-To see different video , cahnge the uri in the osmf player file.
-Good luck, and i will keep on developing for better performance.
+Example of Flex Mobile OSMF player
+================
+
+Basic mobile OSMF player in Actionscript
+------------------------------------------------
+
+App features
+
+    *   Input different URL to watch videos
